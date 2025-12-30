@@ -1,6 +1,6 @@
 # Nmap Network Scanner (WSL → Windows reports)
 
-This project contains simple Bash scripts to scan a local network (192.168.1.0/24) using Nmap from Ubuntu/WSL and save HTML reports directly to the Windows filesystem at `C:\report` (`/mnt/c/report` in WSL).
+This project contains simple Bash scripts to scan a local network (192.168.1.0/24). You can amend  using Nmap from Ubuntu/WSL and save HTML reports directly to the Windows filesystem at `C:\report` (`/mnt/c/report` in WSL).
 
 ## Scripts
 
